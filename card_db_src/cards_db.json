@@ -9486,5 +9486,251 @@
             "Action",
             "Omen"
         ]
+    },
+    {
+        "card_tag": "Abacus",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "5",
+        "types": [
+            "Treasure"
+        ]
+    },
+    {
+        "card_tag": "Anatomist",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "3",
+        
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Astronomer",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "4",
+        "potcost": "1",
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Cannon",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "5",
+        "count": "5",
+        "group_tag": "Cannonball - Cannon",
+        "group_top": false,
+        "types": [
+            "Action",
+            "Attack",
+            "Reserve"
+        ]
+    },
+    {
+        "card_tag": "Cannonball",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "2",
+        "count": "5",
+        "group_tag": "Cannonball - Cannon",
+        "group_top": true,
+        "types": [
+            "Treasure",
+            "Curse"
+        ]
+    },
+    {
+        "card_tag": "Furnace",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "5",
+        
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Goldsmith",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "2",
+        "potcost": "1",
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Greenhouse",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "0",
+        "debtcost": "3",
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Herbologist",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "5",
+        
+        "types": [
+            "Action",
+            "Duration"
+        ]
+    },
+    {
+        "card_tag": "Jeweler",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "3",
+        
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Pupil",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "2",
+        
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Quack",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "5",
+        
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Storehouse",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "4",
+        "debtcost": "3",
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Summer Residence",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "7*",
+        
+        "types": [
+            "Victory"
+        ]
+    },
+    {
+        "card_tag": "Wine Cellar",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "2",
+        
+        "types": [
+            "Action"
+        ]
+    },
+    {
+        "card_tag": "Way of the Chimera",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "",
+        "count": "1",
+        "group_tag": "Philosophy ways",
+        "randomizer": false,
+        "types": [
+            "Way"
+        ]
+    },
+    {
+        "card_tag": "Way of the Kangaroo",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "",
+        "count": "1",
+        "group_tag": "Philosophy ways",
+        "randomizer": false,
+        "types": [
+            "Way"
+        ]
+    },
+    {
+        "card_tag": "Science",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "5",
+        "group_tag": "philosophy projects",
+        "randomizer": false,
+        "types": [
+            "Project"
+        ]
+    },
+    {
+        "card_tag": "Scroll",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "2",
+        "group_tag": "philosophy events",
+        "randomizer": false,
+        "types": [
+            "Event"
+        ]
+    },
+    {
+        "card_tag": "Disassemble",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "4",
+        "group_tag": "philosophy events",
+        "randomizer": false,
+        "types": [
+            "Event"
+        ]
+    },
+    {
+        "card_tag": "Alchemy Guild",
+        "cardset_tags": [
+            "Philosophy"
+        ],
+        "cost": "",
+        "group_tag": "philosophy landmarks",
+        "randomizer": false,
+        "types": [
+            "Landmark"
+        ]
     }
 ]

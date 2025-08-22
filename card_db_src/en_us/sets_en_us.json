@@ -295,5 +295,11 @@
         "set_text": "This contains the nine new kingdom cards introduced in the second edition of <i>Dominion: Seaside</i>, thereby allowing owners of the first edition to obtain these new cards without needing to repurchase the entire game.",
         "short_name": "Seaside",
         "text_icon": "S"
+    },
+    "Philosophy": {
+        "set_name": "Philosophy",
+        "set_text": "This is a fan expension, made to be a successor or expansion to <i>Dominion: Alchemy</i>",
+        "short_name": "Philosophy",
+        "text_icon": "Ph"
     }
 }

@@ -591,5 +591,16 @@
         "set_text": "",
         "text_icon": "*",
         "upgrades": "seaside1stEdition"
+    },
+     "philosophy": {
+        "edition": [
+            "1",
+            "latest"
+        ],
+        "fan": true,
+        "image": "Philosophy.png",
+        "set_name": "*Philosophy*",
+        "set_text": "",
+        "text_icon": "*"
     }
 }

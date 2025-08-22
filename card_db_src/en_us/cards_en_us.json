@@ -4381,5 +4381,80 @@
         "description": "<justify>Ways are a landscape that provide alternate ways to play Action cards. When you play an Action card, instead of doing what is printed on the Action card, you may do what is printed on a Way being used in that game.</justify><n><justify>Ways are not Kingdom cards, and cannot be bought. Including one or more Ways in a game does not count toward the 10 Kingdom card piles the Supply includes. In fact, Ways are not considered \"cards\" at all; any text referring to a \"card\" (such as instructions to \"name a card\") does not apply to Ways. However, for reference, Ways' effects are printed on cards in a landscape orientation with light blue frames.</justify>",
         "extra": "Each Way gives Action cards an additional option: you can play the Action for what it normally does, or play it to do what the Way says to do. Playing an Action card for a Way ability means not doing anything the Action card said to do when played. For example, if you have Way of the Sheep in a game, which says \"+2 Coin,\" then you could play a Horse and choose to get +2 Coin; if you did so, you would not get +2 Cards and +1 Action, and would not return the Horse to its pile. Ways are not Kingdom cards, and cannot be bought; they sit on the table modifying the game rules. Text below a dividing line is unaffected, it will still happen whenever it says it does. For example, if you play a Highway (from Hinterlands) and use Way of the Sheep, you get +2 Coin, and then while Highway is in play, its ability makes cards cheaper. For tracking, it is helpful to tilt a card that was played using a Way, so that you remember that it did the Way instead of what it says. Some Ways refer to \"this.\" That is the card being used to do the Way ability. For example, Way of the Turtle says \"Set this aside...\" If you play a Market using Way of the Turtle, you will set the Market aside. Enchantress from Empires also changes what an Action card does when played. If you are affected by Enchantress, you can use a Way instead of getting the +1 Card and +1 Action that Enchantress's effect would give you. When an Action card can be played at an unusual time, like Sheepdog, it can still be used as a Way. If you play an Action card multiple times, with a card like Mastermind, you can choose for each play whether you want it to use a Way or not. If the card you are playing is a Duration card, it only stays in play if at least one of its plays was for its own abilities. If it does stay in play, you will have to remember for your next turn how many times you actually played the Duration card for its abilities. The choice to use a Way or not happens after \"first\" abilities on cards like Moat and Kiln. The Adventures tokens from Adventures still apply when playing a card using a Way. Any number of Ways may be used in a game of Dominion, though it is recommended to not use more than one Way, and not more than two total Ways, Events, Landmarks, and Projects.",
         "name": "Ways"
+    },
+    "Abacus": {
+        "description": "Reveal your hand.<n>+1 coin per non-Treasure card in your hand.",
+        "extra": "",
+        "name": "Abacus"
+    },
+    "Anatomist": {
+        "description": "+1 Card<n>+1 Action<br>At the end of this turn, reveal the top card of your deck.",
+        "extra": "",
+        "name": "Anatomist"
+    },
+    "Astronomer": {
+        "description": "+1 Action<br>Look through your deck and choose one card to add to your hand.After this, shuffle your deck.",
+        "extra": "For shuffling your deck, you do not add your discardpile before shuffling.",
+        "name": "Astronomer"
+    },
+    "Cannon": {
+        "description": "Discard up to four Treasures. Each other player discards one more card than you from their hand.<n>Put this on your Tavern mat.<br>While this is on your Tavern mat, you cannot play another copy of Cannon.<n>At the start of your turn, you may discard this from your Tavern mat if the player to your left has played at least one card on their turn.",
+        "extra": "",
+        "name": "Cannon"
+    },
+    "Cannonball": {
+        "description": "2 <*COIN*><n>-1 <*VP*>",
+        "extra": "If you discard this using Cannon, this counts as 2 Treasures.",
+        "name": "Cannonball"
+    },
+    "Furnace": {
+        "description": "+2 <*COIN*><br>If this is the first time you played a Furnace this turn, +2 Actions, otherwise +1 Card.<Line>When gaining a card costing more than this, you may trash it. If you do, gain 2 copies of this card.",
+        "extra": "The originally gained card will be put into the trash",
+        "name": "Furnace"
+    },
+    "Goldsmith": {
+        "description": "Reveal the top 3 cards of your deck.<n>Put all the revealed Treasures into play.<n>Either put the rest back in any order, or discard them.",
+        "extra": "",
+        "name": "Goldsmith"
+    },
+    "Greenhouse": {
+        "description": "+2 Actions<n>+1<*POTION*><br>While this is in play, when you buy a second card this turn, +1 Coffers (take a Coin token).",
+        "extra": "",
+        "name": "Greenhouse"
+    },
+    "Herbologist": {
+        "description": "+2 <*Coin*><br>At the start of your next turn, reveal your hand.<n>+1 <*Coin*> per Treasure revealed.",
+        "extra": "",
+        "name": "Herbologist"
+    },
+    "Jeweler": {
+        "description": "+2 Cards<br>At This turn, Treasures cost 2 <*COIN*> less",
+        "extra": "Cards never cost less than 0",
+        "name": "Jeweler"
+    },
+    "Pupil": {
+        "description": "Choose two: +1 Card; +1 Coffers; +1 Villager; +<*POTION*>.<n>The choices must be different.",
+        "extra": "",
+        "name": "Pupil"
+    },
+    "Quack": {
+        "description": "+1 Action<n>+1 Buy<n>+<*POTION*>",
+        "extra": "",
+        "name": "Quack"
+    },
+    "Storehouse": {
+        "description": "+2 Cards<br>Reveal your hand. +1 Action per two Action cards revealed.",
+        "extra": "",
+        "name": "Storehouse"
+    },
+    "Summer Residence": {
+        "description": "Worth 1% per Estate you have.<Line>When buying this card, reveal your hand.<n>This card costs $1 less per Estate revealed.",
+        "extra": "Summer Residence never cost less than 0",
+        "name": "Summer Residence"
+    },
+    "Wine Cellar": {
+        "description": "+1 Action<br>Discard any number of cards.<n>+$1 per card discarded.",
+        "extra": "",
+        "name": "Wine Cellar"
     }
 }
