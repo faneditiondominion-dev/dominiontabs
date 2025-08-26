@@ -9490,7 +9490,7 @@
     {
         "card_tag": "Abacus",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "5",
         "types": [
@@ -9500,7 +9500,7 @@
     {
         "card_tag": "Anatomist",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "3",
         
@@ -9511,7 +9511,7 @@
     {
         "card_tag": "Astronomer",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "4",
         "potcost": "1",
@@ -9522,7 +9522,7 @@
     {
         "card_tag": "Cannon",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "5",
         "count": "5",
@@ -9537,7 +9537,7 @@
     {
         "card_tag": "Cannonball",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "2",
         "count": "5",
@@ -9551,7 +9551,7 @@
     {
         "card_tag": "Furnace",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "5",
         
@@ -9562,7 +9562,7 @@
     {
         "card_tag": "Goldsmith",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "2",
         "potcost": "1",
@@ -9573,7 +9573,7 @@
     {
         "card_tag": "Greenhouse",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "0",
         "debtcost": "3",
@@ -9584,7 +9584,7 @@
     {
         "card_tag": "Herbologist",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "5",
         
@@ -9596,7 +9596,7 @@
     {
         "card_tag": "Jeweler",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "3",
         
@@ -9607,7 +9607,7 @@
     {
         "card_tag": "Pupil",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "2",
         
@@ -9618,7 +9618,7 @@
     {
         "card_tag": "Quack",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "5",
         
@@ -9629,7 +9629,7 @@
     {
         "card_tag": "Storehouse",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "4",
         "debtcost": "3",
@@ -9640,7 +9640,7 @@
     {
         "card_tag": "Summer Residence",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "7*",
         
@@ -9651,7 +9651,7 @@
     {
         "card_tag": "Wine Cellar",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "2",
         
@@ -9662,11 +9662,11 @@
     {
         "card_tag": "Way of the Chimera",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "",
         "count": "1",
-        "group_tag": "Philosophy ways",
+        "group_tag": "philosophy ways",
         "randomizer": false,
         "types": [
             "Way"
@@ -9675,11 +9675,11 @@
     {
         "card_tag": "Way of the Kangaroo",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "",
         "count": "1",
-        "group_tag": "Philosophy ways",
+        "group_tag": "philosophy ways",
         "randomizer": false,
         "types": [
             "Way"
@@ -9688,7 +9688,7 @@
     {
         "card_tag": "Science",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "5",
         "group_tag": "philosophy projects",
@@ -9700,7 +9700,7 @@
     {
         "card_tag": "Scroll",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "2",
         "group_tag": "philosophy events",
@@ -9712,7 +9712,7 @@
     {
         "card_tag": "Disassemble",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "4",
         "group_tag": "philosophy events",
@@ -9724,7 +9724,7 @@
     {
         "card_tag": "Alchemy Guild",
         "cardset_tags": [
-            "Philosophy"
+            "philosophy"
         ],
         "cost": "",
         "group_tag": "philosophy landmarks",
