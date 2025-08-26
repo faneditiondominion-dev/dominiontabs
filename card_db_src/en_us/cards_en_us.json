@@ -4405,7 +4405,12 @@
     "Cannonball": {
         "description": "2 <*COIN*><n>-1 <*VP*>",
         "extra": "If you discard this using Cannon, this counts as 2 Treasures.",
-        "name": "Cannonball"
+        "name": "Cannonball" 
+    },
+    "Cannonball - Cannon": {
+        "description":"<left><u>Cannonball</u>:</left><n>2 <*COIN*><n>-1 <*VP*><n>If you discard this using Cannon, this counts as 2 Treasures.<br><left><u>Cannon</u>:</left><n>Discard up to four Treasures. Each other player discards one more card than you from their hand.<n>Put this on your Tavern mat.<br>While this is on your Tavern mat, you cannot play another copy of Cannon.<n>At the start of your turn, you may discard this from your Tavern mat if the player to your left has played at least one card on their turn.",
+        "extra": "Cannonball / Cannon is a split pile with five copies of Cannonball placed on top of five copies of Cannon during setup. Cannonball is a Curse and a Treasure worth 2<*COIN*>.Cannon is an attack card that needs to be placed on the Tavern Mat after playing",
+        "name": "Cannonball - Cannon"
     },
     "Furnace": {
         "description": "+2 <*COIN*><br>If this is the first time you played a Furnace this turn, +2 Actions, otherwise +1 Card.<Line>When gaining a card costing more than this, you may trash it. If you do, gain 2 copies of this card.",
