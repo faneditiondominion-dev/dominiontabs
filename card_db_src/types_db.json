@@ -1192,5 +1192,15 @@
         "defaultCardCount": 10,
         "tabCostHeightOffset": -1,
         "tabTextHeightOffset": 0
+    },
+    {
+        "card_type": [
+            "Treasure",
+            "Curse"
+        ],
+        "card_type_image": "treasure-curse.png",
+        "defaultCardCount": 10,
+        "tabCostHeightOffset": 0,
+        "tabTextHeightOffset": 3
     }
 ]
