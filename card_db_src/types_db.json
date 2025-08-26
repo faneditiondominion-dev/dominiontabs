@@ -1181,5 +1181,16 @@
         "group_cost": "",
         "tabCostHeightOffset": 0,
         "tabTextHeightOffset": 3
+    },
+    {
+        "card_type": [
+            "Action",
+            "Attack",
+            "Reserve"
+        ],
+        "card_type_image": "reserve.png",
+        "defaultCardCount": 10,
+        "tabCostHeightOffset": -1,
+        "tabTextHeightOffset": 0
     }
 ]
